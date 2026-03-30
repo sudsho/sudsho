@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sudhanshu Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### PhD Researcher | AI/ML Engineer | Former Assistant Professor
+### Graduate Research Scientist (IBM-NSF) | AI/ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshusri)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hu5imaoAAAAJ&hl=en)
