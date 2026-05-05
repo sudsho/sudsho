@@ -23,7 +23,7 @@ Actively looking for **full-time Machine Learning, Deep Learning, Reinforcement 
 
 I work across the stack: classical ML, deep learning, computer vision, NLP, LLMs and agents, multi-agent RL, causal inference, MLOps, and large-scale optimization. Comfortable in industrial research labs, product ML teams, applied AI startups, and platform / infra roles. Open to anything where ML drives real impact.
 
-📍 **Open to**: full-time, US-based or remote. **Visa**: F1 → OPT/STEM-OPT, H1B-ready. **Available**: from Aug 2026.
+📍 **Open to**: full-time, US-based or remote. **Visa**: F1 → OPT/STEM-OPT, H1B-ready. **Available**: immediately.
 📬 **Reach me**: `sudhanshu.iit.bit@gmail.com`
 
 ---
