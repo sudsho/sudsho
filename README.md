@@ -228,8 +228,6 @@ Each repo includes a `Dockerfile`, `requirements.txt`, and a single-command run 
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=sudsho&theme=darkhub&row=1&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/sudsho)
 
-[![Productive Time](https://github-readme-stats.vercel.app/api/wakatime?username=sudsho&theme=dark&hide_border=true&layout=compact)](https://github.com/sudsho)
-
 </div>
 
 ---
