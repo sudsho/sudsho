@@ -4,7 +4,7 @@
 
 ### Machine Learning Engineer · AI Researcher · Reinforcement Learning Specialist
 
-**PhD candidate (NSF + IBM GOALI) · 9 Publications · 7+ years research and industry · Open to full-time roles**
+**9 Publications · 7+ years research and industry · Open to full-time roles**
 
 [![Website](https://img.shields.io/badge/Portfolio-sudsho.github.io-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://sudsho.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshusri)
@@ -18,13 +18,9 @@
 
 ## 🎯 Currently Open to Opportunities
 
-I'm actively looking for **Machine Learning Engineer / Applied Scientist / Research Scientist** roles starting **Summer 2026** (post PhD proposal defense, April 23, 2026). My sweet spot is anywhere reinforcement learning, multi-agent systems, causal inference, and large-scale optimization meet real production constraints.
+Actively looking for **full-time Machine Learning, Deep Learning, Reinforcement Learning, LLM / GenAI, Applied Scientist, Research Scientist, AI Engineer, or ML Engineer** roles starting **Summer 2026** (post PhD proposal defense, April 23, 2026).
 
-**Strongest fits**:
-- Production RL teams (manufacturing, robotics, recsys, finance, supply chain)
-- Foundation model post-training (RLHF, DPO, GRPO, multi-agent fine-tuning)
-- Decision intelligence platforms (causal inference + optimization + ML)
-- Applied research labs in industry (Meta FAIR, Apple AIML, Google DeepMind, MSR, Anthropic, OpenAI)
+I work across the stack: classical ML, deep learning, computer vision, NLP, LLMs and agents, multi-agent RL, causal inference, MLOps, and large-scale optimization. Comfortable in industrial research labs, product ML teams, applied AI startups, and platform / infra roles. Open to anything where ML drives real impact.
 
 📍 **Open to**: full-time, US-based or remote. **Visa**: F1 → OPT/STEM-OPT, H1B-ready. **Available**: from Aug 2026.
 📬 **Reach me**: `sudhanshu.srivastava@louisville.edu` · `(502) 608-9718`
