@@ -1,103 +1,221 @@
 <div align="center">
 
-# Hi there, I'm Sudhanshu Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi, I'm Sudhanshu Srivastava
 
-### AI/ML Engineer | Reinforcement Learning & Multi-Agent Systems
+### Machine Learning Engineer · AI Researcher · Reinforcement Learning Specialist
 
+**PhD candidate (NSF + IBM GOALI) · 9 Publications · 7+ years research and industry · Open to full-time roles**
+
+[![Website](https://img.shields.io/badge/Portfolio-sudsho.github.io-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://sudsho.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshusri)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hu5imaoAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshu.srivastava@louisville.edu)
+[![Resume](https://img.shields.io/badge/Resume-PDF-2C2D72?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sudsho.github.io)
 
 </div>
 
 ---
 
-## About Me
+## 🎯 Currently Open to Opportunities
 
-I'm a **PhD candidate in Industrial & Systems Engineering** at the **University of Louisville**, working on **Reinforcement Learning for Distributed Manufacturing** under an IBM-NSF funded project. My research sits at the intersection of multi-agent reinforcement learning, causal inference, and smart manufacturing systems.
+I'm actively looking for **Machine Learning Engineer / Applied Scientist / Research Scientist** roles starting **Summer 2026** (post PhD proposal defense, April 23, 2026). My sweet spot is anywhere reinforcement learning, multi-agent systems, causal inference, and large-scale optimization meet real production constraints.
 
-Before starting my PhD, I spent **4 years as an Assistant Professor** in Computer Science, was a **Project Scientist at ISRO**, and worked as a **Senior Research Associate at IIM Ahmedabad**. I hold degrees from **IIT Dhanbad**, **BIT Mesra**, and a PG program from **UT Austin**.
+**Strongest fits**:
+- Production RL teams (manufacturing, robotics, recsys, finance, supply chain)
+- Foundation model post-training (RLHF, DPO, GRPO, multi-agent fine-tuning)
+- Decision intelligence platforms (causal inference + optimization + ML)
+- Applied research labs in industry (Meta FAIR, Apple AIML, Google DeepMind, MSR, Anthropic, OpenAI)
 
-- Currently building multi-agent RL frameworks for semiconductor defect analysis and distributed production management
-- Published at IISE, IJPR, Expert Systems with Applications, and Nature Scientific Reports
-- Recipient of the **ASQ Scholarship Award (2025)** and **NSF Student Travel Award (2025)**
-
----
-
-## Research Interests
-
-`Reinforcement Learning` `Multi-Agent Systems` `Operations Research` `Supply Chain Optimization` `Deep Learning` `Computer Vision` `Natural Language Processing` `Causal Inference` `Explainable AI` `GANs` `Remote Sensing`
+📍 **Open to**: full-time, US-based or remote. **Visa**: F1 → OPT/STEM-OPT, H1B-ready. **Available**: from Aug 2026.
+📬 **Reach me**: `sudhanshu.srivastava@louisville.edu` · `(502) 608-9718`
 
 ---
 
-## Tech Stack
+## 📊 Impact, Quantified
 
-- ### Languages
-  [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/sudsho) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/sudsho) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/sudsho) [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/sudsho) [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/sudsho)
+| | |
+|---|---|
+| **8,000×** faster than ILP (0.01s vs 83s) on factory scheduling | **+53 pp** beats GA+CPLEX under disruption |
+| **25.3%** cost reduction in defect disposition | **96.1%** defect prediction accuracy (CF-MARL) |
+| **9** peer-reviewed publications (IISE, IJPR, ESWA, Nature Sci. Reports) | **7+ yrs** of research and industry experience |
+| **500K+** transaction records processed at IIM/Nykaa | **$7B+** e-commerce platform pricing impact (Nykaa) |
+| **400+** students taught (Asst. Prof, 4 years) | **92%** geospatial accuracy (ISRO project) |
 
-- ### ML / DL Frameworks
-  [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/sudsho) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/sudsho) [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://github.com/sudsho) [![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/sudsho) [![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white)](https://github.com/sudsho)
-
-- ### Data & Visualization
-  [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/sudsho) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/sudsho) [![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/sudsho) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sudsho) [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://github.com/sudsho)
-
-- ### RL & Optimization
-  [![Stable Baselines](https://img.shields.io/badge/Stable_Baselines3-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/sudsho) [![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openaigym&logoColor=white)](https://github.com/sudsho) [![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge&logo=gurobi&logoColor=white)](https://github.com/sudsho)
-
-- ### Tools & Platforms
-  [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/sudsho) [![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/sudsho) [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/sudsho) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sudsho) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/sudsho) [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/sudsho)
+Real-world validation: every flagship system in my dissertation runs against **Fortune 500 manufacturing data** (IBM), not toy benchmarks.
 
 ---
 
-## Featured Projects
+## 👋 About Me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudsho&theme=dark&hide_border=true&repo=Gen-AI-Project--Cold-Outreach-Framework-using-LLM)](https://github.com/sudsho/Gen-AI-Project--Cold-Outreach-Framework-using-LLM) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudsho&theme=dark&hide_border=true&repo=Human-Activity-Recognition-using-smartphone-sensors)](https://github.com/sudsho/Human-Activity-Recognition-using-smartphone-sensors)
+PhD candidate in Industrial & Systems Engineering at the **University of Louisville**, on an **NSF-funded IBM GOALI** project. My dissertation is "Hierarchical Multi-Agent Reinforcement Learning for Quality-Aware Intelligent Distributed Manufacturing", a three-level AI framework validated on real semiconductor server-line data.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudsho&theme=dark&hide_border=true&repo=EV_ObDetect)](https://github.com/sudsho/EV_ObDetect) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudsho&theme=dark&hide_border=true&repo=LLM-Finetuning)](https://github.com/sudsho/LLM-Finetuning)
+Before the PhD: **4 years as Assistant Professor** in Computer Science (UPES), **Senior Research Associate at IIM Ahmedabad** on the Nykaa Chair project, **Project Scientist at ISRO** (geospatial AI), MTech from **IIT Dhanbad**, BE from **BIT Mesra**, AI/ML PG program from **UT Austin**.
 
----
-
-## Education
-
-| Degree | Institution | Year |
-|--------|------------|------|
-| **PhD**, Industrial & Systems Engineering | University of Louisville, USA | 2024 - Present |
-| **MBA**, Operations Research | UPES Dehradun, India | 2023 - 2025 |
-| **PG Program**, AI & Machine Learning | UT Austin (Online) | 2019 - 2020 |
-| **MTech**, Computer Science & Engineering | IIT Dhanbad, India | 2017 - 2019 |
-| **BE**, Computer Science | BIT Mesra, Ranchi, India | 2012 - 2016 |
+I own the full pipeline: research design, data engineering, model training, large-scale evaluation, deployment. I write papers and ship code in the same week.
 
 ---
 
-## Selected Publications
+## 🔬 Research Pillars
 
-- **CF-MARL-SMV2D**: Counterfactual Multi-Agent RL for Causal Defect Analysis in Manufacturing *(IJPR, under review)*
-- **LGRGANN**: Cost-Sensitive Bayesian Optimization with Label Reconstruction *(Expert Systems with Applications, under review)*
-- **HMARL**: Hierarchical Multi-Agent RL for Distributed Production Management *(IISE 2026)*
+**Reinforcement Learning at Production Scale**: 4 novel deep RL frameworks (CF-MARL-SMV2D, LGRGANN, LHAC, HMARL) deployed end-to-end on Fortune 500 manufacturing data. Match exact ILP optima while running 8,000× faster.
+
+**Causal ML and DAG Discovery**: Counterfactual MARL on 5,173 records, beats 8 SOTA methods (NOTEARS, DAGMA, ALIAS, etc.). 62.5% reduction in Structural Hamming Distance, 0.93 TPR / 0.04 FDR.
+
+**Hybrid AI + OR**: Hybrid RL+CPLEX warm-start pipelines, lexicographic dual-agent schedulers (LHAC), Bayesian optimization with cost-sensitive imputation (LGRGANN, WBO-CIMP).
+
+**Multi-Agent Systems**: Hierarchical multi-agent RL (HMARL) coordinating product, factory, and system levels. 8.08% cost reduction, 0.44% gap from ILP, scales to 500 orders in <8s.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**: Python (expert), C++, Go, SQL, MATLAB, LaTeX
+**ML/DL**: PyTorch, TensorFlow, JAX, scikit-learn, XGBoost, LightGBM
+**RL**: Stable-Baselines3, Gymnasium, PettingZoo, Ray RLlib, TRL (GRPO/PPO/DPO)
+**LLMs / GenAI**: HuggingFace Transformers, LangChain, LangGraph, vLLM, Pydantic AI, instructor, MCP
+**MLOps / Serving**: FastAPI, Streamlit, Docker, Kubernetes, KServe, Triton, MLflow, DVC, W&B, BentoML
+**Causal / OR**: DoWhy, EconML, NetworkX, CPLEX, Gurobi, scipy.optimize
+**Data**: pandas, NumPy, Polars, PySpark, DuckDB, Postgres, Redis, ChromaDB, FAISS, Pinecone, Neo4j
+**Cloud**: AWS (Lambda, SageMaker, ECS, EC2, S3), GCP, Terraform, ArgoCD
+**Vision**: OpenCV, MONAI, segmentation_models_pytorch, open_clip, YOLO, Faster R-CNN
+**NLP / Speech**: spaCy, NLTK, sentence-transformers, faster-whisper, pyannote
+
+---
+
+## 🚀 Top Projects (curated from 80+ repos)
+
+Production-grade end-to-end systems. Each has README, modular code, tests, Docker, deployment notes.
+
+### Reinforcement Learning & Multi-Agent
+
+| | |
+|---|---|
+| 🦾 [**marl-supply-chain**](https://github.com/sudsho/marl-supply-chain) — Multi-echelon supply chain with IPPO + MAPPO + QMIX, PettingZoo env, OOD eval. *50 commits, 39 files.* | 🏭 [**causal-rl-manufacturing**](https://github.com/sudsho/causal-rl-manufacturing) — Causal RL on a simulated semiconductor fab line; structural causal model + auxiliary causal head. Paper-style README. *36 commits.* |
+| 🤖 [**dqn-cartpole-rl**](https://github.com/sudsho/dqn-cartpole-rl) — DQN, double-DQN, dueling DQN on CartPole + LunarLander, gymnasium 0.26. | 🚚 [**federated-learning-dp**](https://github.com/sudsho/federated-learning-dp) — Differentially-private FedAvg with opacus, non-IID partitioning. |
+
+### Causal Inference & Decision Intelligence
+
+| | |
+|---|---|
+| 🧪 [**counterfactual-reasoning-engine**](https://github.com/sudsho/counterfactual-reasoning-engine) — SCM-based counterfactual reasoning, do-calculus, twin networks. *60 commits, 51 files.* | 📈 [**causal-inference-toolkit**](https://github.com/sudsho/causal-inference-toolkit) — DoWhy-style library: back-door, front-door, IV, DML, sensitivity analysis. |
+
+### LLMs, Agents, Generative AI
+
+| | |
+|---|---|
+| 🎨 [**multimodal-rag-vision-text**](https://github.com/sudsho/multimodal-rag-vision-text) — Multi-modal RAG over images + text using CLIP and LLaVA, FAISS hybrid index. *51 commits, 55 files.* | 🎙 [**realtime-voice-rag-agent**](https://github.com/sudsho/realtime-voice-rag-agent) — Real-time voice agent with RAG and sub-1s round-trip, deployed on AWS ECS. *61 commits, 88 files.* |
+| 💻 [**agentic-coding-assistant**](https://github.com/sudsho/agentic-coding-assistant) — Autonomous coding agent with sandboxed Docker execution and self-critique loop. *42 commits, 63 files.* | 📚 [**enterprise-doc-search-rag**](https://github.com/sudsho/enterprise-doc-search-rag) — Enterprise RAG over policy docs with citations, hybrid retrieval, RAGAS eval. *61 commits, 55 files.* |
+| 🛠 [**tool-using-agent-framework**](https://github.com/sudsho/tool-using-agent-framework) — Custom LangGraph-style agent framework with structured outputs and full tracing. | 🎯 [**lora-dpo-finetuning-pipeline**](https://github.com/sudsho/lora-dpo-finetuning-pipeline) — End-to-end SFT → DPO fine-tuning pipeline with vLLM serving and W&B. |
+| 🧠 [**mini-gpt-from-scratch**](https://github.com/sudsho/mini-gpt-from-scratch) — Decoder-only GPT trained from scratch on Tiny Shakespeare and OpenWebText. | 🔬 [**llm-eval-harness**](https://github.com/sudsho/llm-eval-harness) — Custom eval framework: factuality, toxicity, hallucination, leaderboard. |
+
+### MLOps & Production Systems
+
+| | |
+|---|---|
+| 🏗 [**mlops-end-to-end-platform**](https://github.com/sudsho/mlops-end-to-end-platform) — Full MLOps platform: Feast, Prefect, MLflow, KServe, Evidently, Grafana. *50 commits, 80 files.* | ⚡ [**low-latency-inference-triton**](https://github.com/sudsho/low-latency-inference-triton) — Sub-10ms p99 multi-model serving with TensorRT, Triton, autoscaling on K8s. *69 commits, 72 files.* |
+| 📊 [**aws-cost-optimizer-dashboard**](https://github.com/sudsho/aws-cost-optimizer-dashboard) — Production AWS cost optimizer with Terraform, Lambda, GPT-4o-powered advisor. | 🛡 [**aws-threat-detection-pipeline**](https://github.com/sudsho/aws-threat-detection-pipeline) — Automated AWS threat detection: GuardDuty + EventBridge + Step Functions. |
+
+### Computer Vision
+
+| | |
+|---|---|
+| 🩺 [**medical-imaging-segmentation-mlops**](https://github.com/sudsho/medical-imaging-segmentation-mlops) — 3D CT lung segmentation with nnU-Net, MONAI, Triton, MLflow, AWS. *80 commits, 70 files.* | 🎯 [**faster-rcnn-detection**](https://github.com/sudsho/faster-rcnn-detection) — Object detection with Faster R-CNN on custom dataset, FastAPI inference. |
+| 📺 [**video-anomaly-detection**](https://github.com/sudsho/video-anomaly-detection) — Surveillance-grade video anomaly detection with 3D CNNs, deployed on AWS. | 🖼 [**ddpm-from-scratch**](https://github.com/sudsho/ddpm-from-scratch) — Denoising Diffusion Probabilistic Models from scratch on MNIST + CIFAR. |
+
+### NLP, Speech, Recommendation
+
+| | |
+|---|---|
+| 🗣 [**multilingual-nmt-production**](https://github.com/sudsho/multilingual-nmt-production) — Production multilingual translation with mBART50 fine-tuning + LID + Terraform. | 🎬 [**bert4rec-session-recommender**](https://github.com/sudsho/bert4rec-session-recommender) — Session-based BERT4Rec recommender for e-commerce, A/B test framework. |
+| 🔊 [**wav2vec-speech-recognition**](https://github.com/sudsho/wav2vec-speech-recognition) — Wav2Vec2 fine-tuning for ASR with Streamlit transcription UI. | 🌐 [**transformer-from-scratch**](https://github.com/sudsho/transformer-from-scratch) — Encoder-decoder Transformer from scratch in PyTorch (Attention Is All You Need). |
+
+### Systems & CS Depth
+
+| | |
+|---|---|
+| 🗄 [**mini-sql-database**](https://github.com/sudsho/mini-sql-database) — SQL parser + planner + executor + B-tree index, in Python. *75 commits.* | 🌳 [**btree-index-cpp**](https://github.com/sudsho/btree-index-cpp) — B-tree and B+ tree in C++17 with serialization and benchmarks. |
+| 🔄 [**raft-consensus-go**](https://github.com/sudsho/raft-consensus-go) — Raft consensus library in Go with leader election, log replication, snapshots. | ⚙️ [**mini-compiler-llvm**](https://github.com/sudsho/mini-compiler-llvm) — Compiler for a toy language with LLVM IR codegen, end-to-end via clang. |
+
+### Daily / Rolling
+
+| | |
+|---|---|
+| 🧩 [**leetcode-solutions**](https://github.com/sudsho/leetcode-solutions) — ~280 LeetCode problems solved, 1800+ commits across 7 years. | 🧪 [**ml-experiments**](https://github.com/sudsho/ml-experiments) — 144 notebooks tracking the ML field from sklearn-2019 through MCP/agents-2026. |
+
+---
+
+## 🚀 Try It Live
+
+These repos have ready-to-deploy demos. Click "Deploy to Streamlit Cloud" or copy the repo URL into [streamlit.io/cloud](https://streamlit.io/cloud) for one-click deployment:
+
+| Demo | Stack | What it does |
+|---|---|---|
+| [enterprise-doc-search-rag](https://github.com/sudsho/enterprise-doc-search-rag) | Streamlit + LangChain + ChromaDB | Chat with internal policy PDFs, see citations inline |
+| [multiagent-travel-planner](https://github.com/sudsho/multiagent-travel-planner) | Streamlit + LangGraph + OpenAI | Vague prompt → day-by-day itinerary by collaborating agents |
+| [vae-mnist-fashion](https://github.com/sudsho/vae-mnist-fashion) | Streamlit + PyTorch | Latent space explorer for a Beta-VAE on Fashion-MNIST |
+| [ab-testing-framework](https://github.com/sudsho/ab-testing-framework) | Streamlit + scipy + pymc3 | Frequentist + Bayesian A/B test toolkit, upload CSV, get results |
+| [topic-modeling-news-lda](https://github.com/sudsho/topic-modeling-news-lda) | Streamlit + gensim + pyLDAvis | Interactive LDA topic modeling on news with coherence sweeps |
+
+Each repo includes a `Dockerfile`, `requirements.txt`, and a single-command run target.
+
+---
+
+## 📚 Selected Publications
+
+- **CF-MARL-SMV2D**: Counterfactual Multi-Agent RL for Causal Defect Analysis in Manufacturing *(IJPR, under review, 2026)*
+- **LGRGANN**: Cost-Sensitive Bayesian Optimization with Label Reconstruction under 20%+ Missing Labels *(Expert Systems with Applications, under review)*
+- **HMARL**: Hierarchical Multi-Agent RL for Distributed Production Management *(IISE Annual Conference 2026, accepted)*
+- **LHAC**: Lexicographic Hierarchical Actor-Critic for Quality-Aware Job-Shop Scheduling *(under prep)*
 - Human Settlement Detection Using SAR-Optical Data Fusion *(Nature Scientific Reports, under review)*
 - Integrated ML Approach for Defect Analysis in Semiconductor Industry *(IISE 2025)*
+- Hybrid RL + CPLEX Warm-Start for Capacity-Stressed Job-Shop Scheduling *(IISE Transactions, in revision)*
+- Reinforcement Learning for Pricing Decisions on a $7B+ E-commerce Platform *(IIM Ahmedabad working paper)*
+- Multi-Agent Coordination for Distributed Defect Detection *(IJPR special issue, accepted)*
 
-[View all publications on Google Scholar](https://scholar.google.com/citations?user=hu5imaoAAAAJ&hl=en)
-
----
-
-## Awards & Fellowships
-
-- **American Society for Quality (ASQ) Scholarship Award** (2025) - J.B. Speed School of Engineering
-- **NSF IISE Conference Student Travel Award** (2025) - NSF Award ID CMMI-2511912
-- **GATE Fellowship** - 96+ percentile, seat at IIT Dhanbad
-- **NTSE Scholar** - Government of India scholarship recipient
+[Full list on Google Scholar →](https://scholar.google.com/citations?user=hu5imaoAAAAJ&hl=en)
 
 ---
 
-## GitHub Stats
+## 🎓 Education
+
+| Degree | Institution | Year |
+|---|---|---|
+| **PhD**, Industrial & Systems Engineering | University of Louisville, USA | 2024 - Present |
+| **MBA**, Operations Research | UPES Dehradun, India | 2023 - 2025 |
+| **PG Program**, AI & Machine Learning | UT Austin (online) | 2019 - 2020 |
+| **MTech**, Computer Science & Engineering | IIT Dhanbad, India | 2017 - 2019 |
+| **BE**, Computer Science | BIT Mesra, India | 2012 - 2016 |
+
+---
+
+## 💼 Past Roles
+
+- **PhD Researcher** · University of Louisville (NSF + IBM GOALI) · 2024 – Present
+- **Senior Research Associate** · IIM Ahmedabad (Nykaa Chair) · 2023 – 2024
+- **Assistant Professor** · UPES School of Computer Science · 2019 – 2023 *(4 years, 400+ students)*
+- **Project Scientist** · ISRO · 2018 – 2019
+- **Software Engineer / Research Intern** · multiple roles in industry · 2016 – 2018
+
+---
+
+## 🏆 Awards & Service
+
+- **Outstanding Service Award**, ISE Dept., University of Louisville (2026) — *top 2 of all graduate students*
+- **ASQ Section 912 Scholarship** (2025) — research potential in Quality Engineering
+- **NSF Student Travel Award**, IISE Annual Conference (2025) — NSF Award CMMI-2511912
+- **Runner-up**, UofL Graduate School Three Minute Thesis Competition (2025)
+- **President**, Indian Graduate Student Association, UofL (2025-26) — led 9-member board, 7+ events; org won Outstanding New Student Organization Award
+- **GATE Fellowship**, 96+ percentile (IIT Dhanbad seat)
+- **NTSE Scholar**, Government of India
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudsho&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/sudsho)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudsho&theme=dark&hide_border=true)](https://github.com/sudsho)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudsho&layout=compact&theme=dark&hide_border=true)](https://github.com/sudsho)
 
 </div>
@@ -106,9 +224,13 @@ Before starting my PhD, I spent **4 years as an Assistant Professor** in Compute
 
 <div align="center">
 
+### Hiring? Let's talk.
+
+📧 [sudhanshu.srivastava@louisville.edu](mailto:sudhanshu.srivastava@louisville.edu) · 📞 (502) 608-9718
+[Portfolio](https://sudsho.github.io) · [LinkedIn](https://linkedin.com/in/sudhanshusri) · [Google Scholar](https://scholar.google.com/citations?user=hu5imaoAAAAJ&hl=en)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=sudsho&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sudsho)
 
-*"The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it."* - Michelangelo
+*"The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it."* — Michelangelo
 
 </div>
-
