@@ -4,16 +4,25 @@
 
 ### Machine Learning Engineer · AI Researcher · Reinforcement Learning Specialist
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Production+ML+at+8000x+ILP+speed;9+publications+across+IISE%2C+IJPR%2C+ESWA%2C+Nature+Sci.+Reports;Multi-agent+RL+%C2%B7+Causal+ML+%C2%B7+LLM+post-training+%C2%B7+MLOps;Researcher+who+ships%2C+engineer+who+publishes&font=Fira+Code&center=true&width=820&height=45&color=58a6ff&size=18)](https://github.com/sudsho)
+
 **9 Publications · 7+ years research and industry · Open to full-time roles**
 
 [![Website](https://img.shields.io/badge/Portfolio-sudsho.github.io-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://sudsho.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshusri)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hu5imaoAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshu.iit.bit@gmail.com)
-
 [![Resume](https://img.shields.io/badge/Resume-PDF-2C2D72?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sudsho.github.io)
 
 </div>
+
+---
+
+## ⚡ TL;DR
+
+> **Researcher who ships. Engineer who publishes.**
+>
+> 9 peer-reviewed papers + 80+ end-to-end deployed systems on GitHub. Designed deep RL frameworks that match exact ILP optima at 8,000× faster inference on real Fortune 500 manufacturing data. Comfortable owning the full stack: data engineering → training → distributed serving → monitoring → A/B → write-up.
 
 ---
 
@@ -215,9 +224,11 @@ Each repo includes a `Dockerfile`, `requirements.txt`, and a single-command run 
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudsho&theme=github_dark)](https://github.com/sudsho)
 
-[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudsho&theme=github_dark)](https://github.com/sudsho) [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudsho&theme=github_dark)](https://github.com/sudsho)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudsho&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html,css,tex&langs_count=8&card_width=400)](https://github.com/sudsho)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=sudsho&theme=darkhub&row=1&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/sudsho)
+
+[![Productive Time](https://github-readme-stats.vercel.app/api/wakatime?username=sudsho&theme=dark&hide_border=true&layout=compact)](https://github.com/sudsho)
 
 </div>
 
