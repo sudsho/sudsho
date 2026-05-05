@@ -4,6 +4,8 @@
 
 ### Machine Learning Engineer · AI Researcher · Reinforcement Learning Specialist
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Production+ML+at+8000x+ILP+speed;9+publications+across+IISE%2C+IJPR%2C+ESWA%2C+Nature+Sci.+Reports;Multi-agent+RL+%C2%B7+Causal+ML+%C2%B7+LLM+post-training+%C2%B7+MLOps;Researcher+who+ships%2C+engineer+who+publishes&font=Fira+Code&center=true&width=820&height=45&color=58a6ff&size=18)](https://github.com/sudsho)
+
 **9 Publications · 7+ years research and industry · Open to full-time roles**
 
 [![Website](https://img.shields.io/badge/Portfolio-sudsho.github.io-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://sudsho.github.io)
