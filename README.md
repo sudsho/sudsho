@@ -9,7 +9,8 @@
 [![Website](https://img.shields.io/badge/Portfolio-sudsho.github.io-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://sudsho.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshusri)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hu5imaoAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshu.srivastava@louisville.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshu.iit.bit@gmail.com)
+
 [![Resume](https://img.shields.io/badge/Resume-PDF-2C2D72?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sudsho.github.io)
 
 </div>
@@ -23,7 +24,7 @@ Actively looking for **full-time Machine Learning, Deep Learning, Reinforcement 
 I work across the stack: classical ML, deep learning, computer vision, NLP, LLMs and agents, multi-agent RL, causal inference, MLOps, and large-scale optimization. Comfortable in industrial research labs, product ML teams, applied AI startups, and platform / infra roles. Open to anything where ML drives real impact.
 
 📍 **Open to**: full-time, US-based or remote. **Visa**: F1 → OPT/STEM-OPT, H1B-ready. **Available**: from Aug 2026.
-📬 **Reach me**: `sudhanshu.srivastava@louisville.edu` · `(502) 608-9718`
+📬 **Reach me**: `sudhanshu.iit.bit@gmail.com`
 
 ---
 
@@ -210,9 +211,13 @@ Each repo includes a `Dockerfile`, `requirements.txt`, and a single-command run 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudsho&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/sudsho)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudsho&theme=dark&hide_border=true)](https://github.com/sudsho)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudsho&layout=compact&theme=dark&hide_border=true)](https://github.com/sudsho)
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudsho&theme=github_dark)](https://github.com/sudsho)
+
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudsho&theme=github_dark)](https://github.com/sudsho) [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudsho&theme=github_dark)](https://github.com/sudsho)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sudsho&theme=darkhub&row=1&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/sudsho)
 
 </div>
 
@@ -222,7 +227,7 @@ Each repo includes a `Dockerfile`, `requirements.txt`, and a single-command run 
 
 ### Hiring? Let's talk.
 
-📧 [sudhanshu.srivastava@louisville.edu](mailto:sudhanshu.srivastava@louisville.edu) · 📞 (502) 608-9718
+📧 [sudhanshu.iit.bit@gmail.com](mailto:sudhanshu.iit.bit@gmail.com)
 [Portfolio](https://sudsho.github.io) · [LinkedIn](https://linkedin.com/in/sudhanshusri) · [Google Scholar](https://scholar.google.com/citations?user=hu5imaoAAAAJ&hl=en)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sudsho&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sudsho)
