@@ -4,8 +4,6 @@
 
 ### Machine Learning Engineer · AI Researcher · Reinforcement Learning Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Production+ML+at+8000x+ILP+speed;9+publications+across+IISE%2C+IJPR%2C+ESWA%2C+Nature+Sci.+Reports;Multi-agent+RL+%C2%B7+Causal+ML+%C2%B7+LLM+post-training+%C2%B7+MLOps;Researcher+who+ships%2C+engineer+who+publishes&font=Fira+Code&center=true&width=820&height=45&color=58a6ff&size=18)](https://github.com/sudsho)
-
 **9 Publications · 7+ years research and industry · Open to full-time roles**
 
 [![Website](https://img.shields.io/badge/Portfolio-sudsho.github.io-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://sudsho.github.io)
@@ -28,7 +26,7 @@
 
 ## 🎯 Currently Open to Opportunities
 
-Actively looking for **full-time Machine Learning, Deep Learning, Reinforcement Learning, LLM / GenAI, Applied Scientist, Research Scientist, AI Engineer, or ML Engineer** roles starting **Summer 2026** (post PhD proposal defense, April 23, 2026).
+Actively looking for **full-time Machine Learning, Deep Learning, Reinforcement Learning, LLM / GenAI, Applied Scientist, Research Scientist, AI Engineer, or ML Engineer** roles. **Available immediately.**
 
 I work across the stack: classical ML, deep learning, computer vision, NLP, LLMs and agents, multi-agent RL, causal inference, MLOps, and large-scale optimization. Comfortable in industrial research labs, product ML teams, applied AI startups, and platform / infra roles. Open to anything where ML drives real impact.
 
