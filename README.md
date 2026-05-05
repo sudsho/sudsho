@@ -78,7 +78,7 @@ I own the full pipeline: research design, data engineering, model training, larg
 
 ---
 
-## 🚀 Top Projects (curated from 80+ repos)
+## 🚀 Top Projects
 
 Production-grade end-to-end systems. Each has README, modular code, tests, Docker, deployment notes.
 
